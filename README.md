@@ -1,3 +1,2 @@
 # RansomGuard
-anti-ransomware file-system filter driver 
-check out [the related blogpost](https://0mWindyBug.github.io)
+check out [the related blogpost](https://0mwindybug.github.io/RansomGuard/)
